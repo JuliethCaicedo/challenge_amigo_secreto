@@ -34,11 +34,11 @@ Consiste en una aplicación sencilla e interactiva para realizar el sorteo de un
 
 
 ## 📸 Vista previa del proyecto
-- **Vista General.:**
+- **Vista General:**
 ![Vista previa del proyecto](assets/juego-general.png)
-- **Ingreso de Amigos.:**
+- **Ingreso de Amigos:**
 ![Vista previa del Ingreso de Amigos](assets/ingreso-de-amigos.png)
-- **-Amigo elegido.:**
+- **Amigo elegido:**
 ![Vista previa del Amigo Elegido](assets/amigo-elegido.png)
 
 
