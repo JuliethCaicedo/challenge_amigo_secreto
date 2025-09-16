@@ -42,6 +42,9 @@ Consiste en una aplicación sencilla e interactiva para realizar el sorteo de un
 ![Vista previa del Amigo Elegido](assets/amigo-elegido.png)
 
 
+## 🚀 Demo en línea
+Puedes ver el proyecto funcionando aquí: [Demo en Vercel](https://challenge-amigo-secreto-seven-sigma.vercel.app/)
+
 ✨ Autor
 Julieth Caicedo
 
